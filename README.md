@@ -1,2 +1,4 @@
 # Nansen-Ai
-Target
+
+## Tasks
+- Staking
